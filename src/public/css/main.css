@@ -1,0 +1,44 @@
+body{
+    background:url('dia.png');
+    background-repeat: repeat;
+    font-family: 'Oxygen', sans-serif;
+}
+.inicio {
+    background-image: url('WhatsApp\ Image\ 2020-10-28\ at\ 2.16.49\ PM.jpeg');
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+.img-1 {
+    background-image: url('repair.jpeg');
+    background-size: cover;
+    width: 100%;
+    padding: 100px;
+    margin: 0; 
+}
+.img-2 {
+    background-image: url('gamer.jpg');
+    background-size: cover;
+    width: 100%;
+    padding: 100px;
+    margin: 0; 
+}
+.img-3 {
+    background-image: url('piezas.jpeg');
+    background-size: cover;
+    width: 100%;
+    padding: 100px;
+    margin: 0; 
+}
+.card {
+    transition: transform .6s;
+}
+.card:hover {
+    transform: scale(1.1);
+}
+.fab:hover {
+    transform: scale(1.6);
+}
+.fab {
+    transition: transform .6s;
+}
