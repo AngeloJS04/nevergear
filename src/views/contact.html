@@ -8,6 +8,31 @@
    
 <body>
     <%- include ('partials/nav.html') %>
-    <h1>contact Page</h1>
+   <br><br><br><br>
+
+    <section class="form_wrap animated fadeInDown">
+
+        <form action="/contact" method="post" class="form_contact"id="form">
+            <i class="fas fa-inbox fa-5x herra"></i>
+            <h5 class="text-center mt-3">Contacto</h5>
+            <div class="user_info">
+
+                <input type="text" placeholder="Nombre" name="name" autofocus required id="name">
+
+                <input type="number" placeholder="Telefono / celular" required name="phone" step="any"
+                    pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" id="phone">
+
+                <input type="email" placeholder="Correo eletronico" name="email" required id="email">
+
+                <textarea required placeholder="Detalles del servicio que solicita:" name="message"
+                    id="mensaje"></textarea>
+
+                <input type="submit" class="btn btn-success" data-toggle="modal" data-target="#ma-modal" value="Send" id="btnSend">
+            </div>
+        </form>
+    </section>
+   
+    <br><br><br>
+    <%- include ('partials/footer.html') %>
 </body>
 </html>
