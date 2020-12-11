@@ -157,6 +157,7 @@ body {
 }
 .p-top-30 {
     padding-top: 2px;
+    font-size: 17px;
 }
 .half-txt {
     width: 60%;
@@ -289,10 +290,8 @@ body {
     justify-content: space-around;
 }
 .aboutus {
-    background-image: url('fondoabout.jpeg');
-    background-size: cover;
-    width: 100%;
-    margin: 0;
+    background:url('dia.png');
+    background-repeat: repeat;
 }
 .nosotros {
     left: 230px;
