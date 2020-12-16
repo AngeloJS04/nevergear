@@ -1,6 +1,13 @@
 # nevergear
 
-Pagina web basada en la venta de equipos y servicios gamers.
+Pagina web basada en la venta de equipos y servicios gamers realizado por estudiantes de Ingenieria en sistemas de la O&M, bajo la materia de administracion de servidores seccion 
+0933
+
+18-EISM-1-017 Fraulyn Marte
+
+18-EISM-1-005 Lesli Melo Acevedo
+
+18-EISM-1-026 Igor Rodriguez
 
 # instalaciones Necesarias
 
