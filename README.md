@@ -1,7 +1,8 @@
 # nevergear
 
-Pagina web basada en la venta de equipos y servicios gamers realizado por estudiantes de Ingenieria en sistemas de la O&M, bajo la materia de administracion de servidores seccion 
-0933
+Pagina web basada en la venta de equipos y servicios gamers realizado por estudiantes de Ingenieria en sistemas de la O&M, bajo la materia de administracion de servidores.
+
+seccion: 0933
 
 18-EISM-1-017 Fraulyn Marte
 
