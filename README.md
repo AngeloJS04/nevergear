@@ -12,11 +12,11 @@ Pagina web basada en la venta de equipos y servicios gamers realizado por estudi
 
 # instalaciones Necesarias
 
-Node js
+- Node js
 
-git
+- git
 
-github desktop
+- github desktop
 
 
 Para instalar este proyecto debe clonarlo en su equipo mediante github desktop y instalar las dependencias necesarias para esto escriba en la consola del directorio del proyecto
