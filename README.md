@@ -12,7 +12,7 @@ Pagina web basada en la venta de equipos y servicios gamers realizado por estudi
 
 # instalaciones Necesarias
 
-Node JS
+Node js
 
 git
 
