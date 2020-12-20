@@ -26,11 +26,11 @@ luego debe inicializar el servidor escribiendo en la consola ¨npm run dev¨, un
 
 # documentaciones
 
-Node JS: https://nodejs.org/es/docs/
+- Node JS: https://nodejs.org/es/docs/
 
-GIT: https://git-scm.com/doc
+- GIT: https://git-scm.com/doc
 
-Bootstrap: https://getbootstrap.com/docs/4.1/getting-started/introduction/
+- Bootstrap: https://getbootstrap.com/docs/4.1/getting-started/introduction/
 
 
 
